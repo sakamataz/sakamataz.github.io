@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+As a C++ developer specializing in storage systems and online advertising, I'll be translating selected technical articles from my Chinese blog (https://blog.csdn.net/treblez) into English. Feel free to leave a comment below if you'd like to see specific topics covered!
